@@ -29,3 +29,25 @@ Well-defined requirements serve as a blueprint for the design, development, and 
 Optional additional reasons (if you'd like to add more):
 - ✅ **Enhanced Product Quality:** Products built based on clear and validated requirements are more likely to meet user needs.
 - ✅ **Improved Communication:** Requirement documents serve as a reference for all stakeholders throughout the project lifecycle.
+
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that help define and refine the needs of stakeholders. These activities ensure that the final system meets user expectations and business goals.
+
+- **Requirement Gathering:**  
+  This involves collecting high-level needs from stakeholders, customers, users, and subject matter experts. Techniques include interviews, surveys, observations, and document analysis.
+
+- **Requirement Elicitation:**  
+  A deeper process where the focus is on uncovering the underlying needs and expectations that may not be explicitly stated. Techniques include workshops, brainstorming sessions, prototyping, and use case analysis.
+
+- **Requirement Documentation:**  
+  The gathered and elicited requirements are documented in a structured and standardized format, typically in a Software Requirements Specification (SRS) document. This ensures consistency and provides a reference point for all stakeholders.
+
+- **Requirement Analysis and Modeling:**  
+  This activity involves refining and organizing the requirements. It includes analyzing dependencies, feasibility, and conflicts, and modeling them using tools like flowcharts, data flow diagrams (DFDs), and UML models.
+
+- **Requirement Validation:**  
+  Ensures that the documented requirements are complete, clear, and aligned with stakeholder needs. Validation methods include reviews, walkthroughs, and formal approval processes.
+
+
